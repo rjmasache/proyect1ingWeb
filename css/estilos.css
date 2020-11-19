@@ -103,8 +103,3 @@ footer h5{
     font-style: normal;
     font-weight: lighter;
 }
-@media only screen and(max-width: 2000px){
-    body{
-        background-color: blueviolet;
-    }
-}
